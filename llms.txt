@@ -1,0 +1,22 @@
+# Aaron Asmelash
+
+> Senior QA Automation Engineer based in Woodbridge, VA, with 7+ years of enterprise test automation: self-healing regression suites in AccelQ, BDD frameworks in Java, and Jenkins CI integration.
+
+## Experience
+
+- QA Automation Senior Associate, Peraton (Department of State, Consular Affairs), 08/2024 to present: self-healing AccelQ regression suites; script development time cut 25%; 20+ release cycles covered.
+- QA Automation Engineer, Marriott International, 04/2022 to 07/2024: hybrid Page Object and BDD framework; manual effort cut 37%; test execution time cut 35%.
+- QA Automation Engineer I, Pentagon Federal Credit Union, 02/2020 to 04/2022: data-driven Selenium and Maven suites; regression time cut 21%.
+- QA Manual Test Engineer, Instacart, 02/2019 to 02/2020.
+
+## Education
+
+- B.S. Biology, Virginia Commonwealth University, 2018
+- Coding bootcamp, Syntax Technologies, 2018
+- ISTQB CTFL: in progress
+
+## Contact
+
+- Email: aaronasmelashsyn@gmail.com
+- Work authorization: US citizen. Security clearance: Active Secret.
+- Résumé: Aaron-Asmelash-Resume.pdf
